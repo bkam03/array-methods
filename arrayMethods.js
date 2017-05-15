@@ -62,3 +62,5 @@ var favoriteEvenNumber = mixedNums.indexOf(76);
 var favoriteColor = colors.indexOf("Red");
 
 var lastNine = bulkNumbers.lastIndexOf(9);
+
+var lastFive = bulkNumbers.lastIndexOf(5);
