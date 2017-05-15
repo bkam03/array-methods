@@ -46,3 +46,5 @@ var orderedValuesNewLength = orderedValues.length;
 var randomThingsArray = genericNumberArray.concat(colors);
 
 var updatedOrders = orderQueue.concat({takeOut : "fishish"}, {takeOut : "canal cabbage"});
+
+var sentence = scrambledWords.join(" ");
